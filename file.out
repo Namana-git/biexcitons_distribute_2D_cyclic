@@ -1,0 +1,588 @@
+           2           2           0           0
+ hamiltonian%locq,hamiltonian%lld ,hamiltonian%size_          15          15
+         225
+           2           2           1           0
+ hamiltonian%locq,hamiltonian%lld ,hamiltonian%size_          15          15
+         225
+ before           5           1           1
+ before           3           2           2
+ before           4           2           3
+ before           2           1           1
+ before           3           1           2
+ before           4           1           3
+           3
+           3
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+           2           2           1           1
+ hamiltonian%locq,hamiltonian%lld ,hamiltonian%size_          15          15
+         225
+           2           2           0           1
+ hamiltonian%locq,hamiltonian%lld ,hamiltonian%size_          15          15
+         225
+           3
+           3           5
+ imatrix           3
+ imatrix           4
+           3
+           3           5
+ imatrix           3
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (6.075272852967828E-005,0.000000000000000E+000)
+           1
+  hamiltonian%mat(ipos),ipos (3.589752409607172E-002,0.000000000000000E+000)
+          16
+  hamiltonian%mat(ipos),ipos (-6.837405976511945E-006,0.000000000000000E+000)
+          31
+  hamiltonian%mat(ipos),ipos (-3.673005153359554E-006,0.000000000000000E+000)
+          46
+  hamiltonian%mat(ipos),ipos (2.075950874314003E-006,0.000000000000000E+000)
+          61
+  hamiltonian%mat(ipos),ipos (-2.946411864832044E-002,0.000000000000000E+000)
+          76
+  hamiltonian%mat(ipos),ipos (-3.699932835297659E-002,0.000000000000000E+000)
+          91
+  hamiltonian%mat(ipos),ipos (6.058272447262425E-006,0.000000000000000E+000)
+         106
+  hamiltonian%mat(ipos),ipos (5.315853741194587E-006,0.000000000000000E+000)
+         121
+  hamiltonian%mat(ipos),ipos (2.923124338849448E-005,0.000000000000000E+000)
+         136
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         151
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         166
+  hamiltonian%mat(ipos),ipos (1.952238017111085E-005,0.000000000000000E+000)
+         181
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         196
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         211
+  hamiltonian%mat(ipos),ipos (8.701906372152735E-002,0.000000000000000E+000)
+          10
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          25
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          40
+  hamiltonian%mat(ipos),ipos (-5.824634058626543E-006,0.000000000000000E+000)
+          55
+  hamiltonian%mat(ipos),ipos (1.125229141507589E-005,0.000000000000000E+000)
+          70
+  hamiltonian%mat(ipos),ipos (6.615198117287946E-005,0.000000000000000E+000)
+          85
+  hamiltonian%mat(ipos),ipos (2.178104440986317E-005,0.000000000000000E+000)
+         100
+  hamiltonian%mat(ipos),ipos (2.290429081767797E-002,0.000000000000000E+000)
+         115
+  hamiltonian%mat(ipos),ipos (-9.473619684285950E-007,0.000000000000000E+000)
+         130
+  hamiltonian%mat(ipos),ipos (7.113456819206476E-002,0.000000000000000E+000)
+         145
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         160
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         175
+  hamiltonian%mat(ipos),ipos (-5.142304928540398E-006,0.000000000000000E+000)
+         190
+  hamiltonian%mat(ipos),ipos (-3.851859219139442E-006,0.000000000000000E+000)
+         205
+  hamiltonian%mat(ipos),ipos (-3.577885490813060E-005,0.000000000000000E+000)
+         220
+  hamiltonian%mat(ipos),ipos (-6.503460303974862E-005,0.000000000000000E+000)
+          13
+  hamiltonian%mat(ipos),ipos (1.086750207468867E-002,0.000000000000000E+000)
+          28
+  hamiltonian%mat(ipos),ipos (-2.058316169950558E-006,0.000000000000000E+000)
+          43
+  hamiltonian%mat(ipos),ipos (-2.367403340031160E-008,0.000000000000000E+000)
+          58
+  hamiltonian%mat(ipos),ipos (-1.008216406717111E-005,0.000000000000000E+000)
+          73
+  hamiltonian%mat(ipos),ipos (4.308880725875497E-002,0.000000000000000E+000)
+          88
+  hamiltonian%mat(ipos),ipos (-8.895541308447719E-003,0.000000000000000E+000)
+         103
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         118
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         133
+  hamiltonian%mat(ipos),ipos (-3.389343274307066E-005,0.000000000000000E+000)
+         148
+  hamiltonian%mat(ipos),ipos (2.290429081767797E-002,0.000000000000000E+000)
+         163
+  hamiltonian%mat(ipos),ipos (-9.473619684285950E-007,0.000000000000000E+000)
+         178
+  hamiltonian%mat(ipos),ipos (-5.753525098128875E-005,0.000000000000000E+000)
+         193
+  hamiltonian%mat(ipos),ipos (1.981478476409393E-006,0.000000000000000E+000)
+         208
+  hamiltonian%mat(ipos),ipos (1.243335474282503E-002,0.000000000000000E+000)
+         223
+           3
+           3
+           3
+           3
+           3           5
+           3           5
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (-4.363306332379580E-002,0.000000000000000E+000)
+           2
+  hamiltonian%mat(ipos),ipos (3.443670328806547E-005,0.000000000000000E+000)
+          17
+  hamiltonian%mat(ipos),ipos (-9.538273843645584E-006,0.000000000000000E+000)
+          32
+  hamiltonian%mat(ipos),ipos (-1.748373108512169E-007,0.000000000000000E+000)
+          47
+  hamiltonian%mat(ipos),ipos (-1.028376436806866E-005,0.000000000000000E+000)
+          62
+  hamiltonian%mat(ipos),ipos (-7.142042204577592E-005,0.000000000000000E+000)
+          77
+  hamiltonian%mat(ipos),ipos (3.042266143893357E-006,0.000000000000000E+000)
+          92
+  hamiltonian%mat(ipos),ipos (-4.006764153018594E-002,0.000000000000000E+000)
+         107
+  hamiltonian%mat(ipos),ipos (1.480122818975360E-006,0.000000000000000E+000)
+         122
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         137
+  hamiltonian%mat(ipos),ipos (2.923124338849448E-005,0.000000000000000E+000)
+         152
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         167
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         182
+  hamiltonian%mat(ipos),ipos (1.952238017111085E-005,0.000000000000000E+000)
+         197
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         212
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          11
+  hamiltonian%mat(ipos),ipos (8.701906372152735E-002,0.000000000000000E+000)
+          26
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          41
+  hamiltonian%mat(ipos),ipos (1.116074940910039E-005,0.000000000000000E+000)
+          56
+  hamiltonian%mat(ipos),ipos (-2.651926206453936E-005,0.000000000000000E+000)
+          71
+  hamiltonian%mat(ipos),ipos (-3.671572357416153E-002,0.000000000000000E+000)
+          86
+  hamiltonian%mat(ipos),ipos (-2.139003574848175E-002,0.000000000000000E+000)
+         101
+  hamiltonian%mat(ipos),ipos (2.852002089070993E-005,0.000000000000000E+000)
+         116
+  hamiltonian%mat(ipos),ipos (-4.601152477334836E-005,0.000000000000000E+000)
+         131
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         146
+  hamiltonian%mat(ipos),ipos (7.113456819206476E-002,0.000000000000000E+000)
+         161
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         176
+  hamiltonian%mat(ipos),ipos (-1.628662130315206E-005,0.000000000000000E+000)
+         191
+  hamiltonian%mat(ipos),ipos (1.079419735106057E-005,0.000000000000000E+000)
+         206
+  hamiltonian%mat(ipos),ipos (5.246231332421303E-002,0.000000000000000E+000)
+         221
+  hamiltonian%mat(ipos),ipos (-1.708039082586765E-002,0.000000000000000E+000)
+          14
+  hamiltonian%mat(ipos),ipos (-7.740070327599824E-005,0.000000000000000E+000)
+          29
+  hamiltonian%mat(ipos),ipos (-2.526909156586044E-006,0.000000000000000E+000)
+          44
+  hamiltonian%mat(ipos),ipos (9.998702012126159E-006,0.000000000000000E+000)
+          59
+  hamiltonian%mat(ipos),ipos (-1.828146309890144E-006,0.000000000000000E+000)
+          74
+  hamiltonian%mat(ipos),ipos (6.890585245855618E-005,0.000000000000000E+000)
+          89
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         104
+  hamiltonian%mat(ipos),ipos (-8.895541308447719E-003,0.000000000000000E+000)
+         119
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         134
+  hamiltonian%mat(ipos),ipos (-2.139003574848175E-002,0.000000000000000E+000)
+         149
+  hamiltonian%mat(ipos),ipos (-2.715445626222390E-005,0.000000000000000E+000)
+         164
+  hamiltonian%mat(ipos),ipos (-4.601152477334836E-005,0.000000000000000E+000)
+         179
+  hamiltonian%mat(ipos),ipos (-2.627431342716591E-006,0.000000000000000E+000)
+         194
+  hamiltonian%mat(ipos),ipos (-5.929356407108344E-005,0.000000000000000E+000)
+         209
+  hamiltonian%mat(ipos),ipos (-7.819713573553599E-006,0.000000000000000E+000)
+         224
+           3
+           3
+           3
+           3
+           3           5
+           3           5
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (6.723376941408787E-006,0.000000000000000E+000)
+           3
+  hamiltonian%mat(ipos),ipos (-9.988504757529881E-006,0.000000000000000E+000)
+          18
+  hamiltonian%mat(ipos),ipos (5.037986306888342E-005,0.000000000000000E+000)
+          33
+  hamiltonian%mat(ipos),ipos (3.349420707672834E-002,0.000000000000000E+000)
+          48
+  hamiltonian%mat(ipos),ipos (1.600377618160564E-005,0.000000000000000E+000)
+          63
+  hamiltonian%mat(ipos),ipos (-4.459429305825324E-006,0.000000000000000E+000)
+          78
+  hamiltonian%mat(ipos),ipos (-5.807789534628682E-006,0.000000000000000E+000)
+          93
+  hamiltonian%mat(ipos),ipos (1.858019913925091E-006,0.000000000000000E+000)
+         108
+  hamiltonian%mat(ipos),ipos (-3.508830146165565E-002,0.000000000000000E+000)
+         123
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         138
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         153
+  hamiltonian%mat(ipos),ipos (2.923124338849448E-005,0.000000000000000E+000)
+         168
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         183
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         198
+  hamiltonian%mat(ipos),ipos (1.952238017111085E-005,0.000000000000000E+000)
+         213
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          12
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          27
+  hamiltonian%mat(ipos),ipos (8.701906372152735E-002,0.000000000000000E+000)
+          42
+  hamiltonian%mat(ipos),ipos (-6.855043466202915E-008,0.000000000000000E+000)
+          57
+  hamiltonian%mat(ipos),ipos (-3.834027610719204E-002,0.000000000000000E+000)
+          72
+  hamiltonian%mat(ipos),ipos (-3.365321924775344E-005,0.000000000000000E+000)
+          87
+  hamiltonian%mat(ipos),ipos (1.430820162795499E-006,0.000000000000000E+000)
+         102
+  hamiltonian%mat(ipos),ipos (-4.629122986443690E-005,0.000000000000000E+000)
+         117
+  hamiltonian%mat(ipos),ipos (3.006231145263882E-005,0.000000000000000E+000)
+         132
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         147
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         162
+  hamiltonian%mat(ipos),ipos (7.113456819206476E-002,0.000000000000000E+000)
+         177
+  hamiltonian%mat(ipos),ipos (-6.125658069322526E-005,0.000000000000000E+000)
+         192
+  hamiltonian%mat(ipos),ipos (5.089231580495834E-002,0.000000000000000E+000)
+         207
+  hamiltonian%mat(ipos),ipos (2.200090187898240E-005,0.000000000000000E+000)
+         222
+  hamiltonian%mat(ipos),ipos (-2.223365243025910E-006,0.000000000000000E+000)
+          15
+  hamiltonian%mat(ipos),ipos (-2.887118171202019E-006,0.000000000000000E+000)
+          30
+  hamiltonian%mat(ipos),ipos (-6.885457469252287E-005,0.000000000000000E+000)
+          45
+  hamiltonian%mat(ipos),ipos (-5.433523794636130E-002,0.000000000000000E+000)
+          60
+  hamiltonian%mat(ipos),ipos (-2.340405808354262E-005,0.000000000000000E+000)
+          75
+  hamiltonian%mat(ipos),ipos (1.657658913245541E-006,0.000000000000000E+000)
+          90
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         105
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         120
+  hamiltonian%mat(ipos),ipos (-8.895541308447719E-003,0.000000000000000E+000)
+         135
+  hamiltonian%mat(ipos),ipos (1.430820162795499E-006,0.000000000000000E+000)
+         150
+  hamiltonian%mat(ipos),ipos (-4.629122986443690E-005,0.000000000000000E+000)
+         165
+  hamiltonian%mat(ipos),ipos (-2.561216570029501E-005,0.000000000000000E+000)
+         180
+  hamiltonian%mat(ipos),ipos (-5.749975796788931E-003,0.000000000000000E+000)
+         195
+  hamiltonian%mat(ipos),ipos (-3.543795935456728E-005,0.000000000000000E+000)
+         210
+  hamiltonian%mat(ipos),ipos (-5.795446537604221E-005,0.000000000000000E+000)
+         225
+           3
+           3
+           3
+           3
+           3           5
+           3           5
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (3.407564042845479E-005,0.000000000000000E+000)
+           7
+  hamiltonian%mat(ipos),ipos (1.125229141507589E-005,0.000000000000000E+000)
+          22
+  hamiltonian%mat(ipos),ipos (6.615198117287946E-005,0.000000000000000E+000)
+          37
+  hamiltonian%mat(ipos),ipos (7.627542968839407E-002,0.000000000000000E+000)
+          52
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          67
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          82
+  hamiltonian%mat(ipos),ipos (1.491789593188741E-005,0.000000000000000E+000)
+          97
+  hamiltonian%mat(ipos),ipos (1.981478476409393E-006,0.000000000000000E+000)
+         112
+  hamiltonian%mat(ipos),ipos (1.243335474282503E-002,0.000000000000000E+000)
+         127
+  hamiltonian%mat(ipos),ipos (3.065334493612681E-005,0.000000000000000E+000)
+         142
+  hamiltonian%mat(ipos),ipos (3.851859219139442E-006,0.000000000000000E+000)
+         157
+  hamiltonian%mat(ipos),ipos (3.577885490813060E-005,0.000000000000000E+000)
+         172
+  hamiltonian%mat(ipos),ipos (-8.003010950051248E-002,0.000000000000000E+000)
+         187
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         202
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         217
+           3
+           3
+           3
+           3
+           3           5
+           3           5
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (1.116074940910039E-005,0.000000000000000E+000)
+           8
+  hamiltonian%mat(ipos),ipos (1.338101242254197E-005,0.000000000000000E+000)
+          23
+  hamiltonian%mat(ipos),ipos (-3.671572357416153E-002,0.000000000000000E+000)
+          38
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          53
+  hamiltonian%mat(ipos),ipos (7.627542968839407E-002,0.000000000000000E+000)
+          68
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          83
+  hamiltonian%mat(ipos),ipos (-2.627431342716591E-006,0.000000000000000E+000)
+          98
+  hamiltonian%mat(ipos),ipos (1.315958284209273E-005,0.000000000000000E+000)
+         113
+  hamiltonian%mat(ipos),ipos (-7.819713573553599E-006,0.000000000000000E+000)
+         128
+  hamiltonian%mat(ipos),ipos (1.628662130315206E-005,0.000000000000000E+000)
+         143
+  hamiltonian%mat(ipos),ipos (1.471684265652584E-005,0.000000000000000E+000)
+         158
+  hamiltonian%mat(ipos),ipos (-5.246231332421303E-002,0.000000000000000E+000)
+         173
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         188
+  hamiltonian%mat(ipos),ipos (-8.003010950051248E-002,0.000000000000000E+000)
+         203
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         218
+           3
+           3
+           3
+           3
+           3           5
+           3           5
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (-6.855043466202915E-008,0.000000000000000E+000)
+           9
+  hamiltonian%mat(ipos),ipos (-3.834027610719204E-002,0.000000000000000E+000)
+          24
+  hamiltonian%mat(ipos),ipos (6.247055239327892E-006,0.000000000000000E+000)
+          39
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          54
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+          69
+  hamiltonian%mat(ipos),ipos (7.627542968839407E-002,0.000000000000000E+000)
+          84
+  hamiltonian%mat(ipos),ipos (-5.749975796788931E-003,0.000000000000000E+000)
+          99
+  hamiltonian%mat(ipos),ipos (-3.543795935456728E-005,0.000000000000000E+000)
+         114
+  hamiltonian%mat(ipos),ipos (1.449868153713396E-005,0.000000000000000E+000)
+         129
+  hamiltonian%mat(ipos),ipos (6.125658069322526E-005,0.000000000000000E+000)
+         144
+  hamiltonian%mat(ipos),ipos (-5.089231580495834E-002,0.000000000000000E+000)
+         159
+  hamiltonian%mat(ipos),ipos (3.510138128604012E-006,0.000000000000000E+000)
+         174
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         189
+  hamiltonian%mat(ipos),ipos (0.000000000000000E+000,0.000000000000000E+000)
+         204
+  hamiltonian%mat(ipos),ipos (-8.003010950051248E-002,0.000000000000000E+000)
+         219
+           3
+           3
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (6.628608652192725E-006,0.000000000000000E+000)
+           4
+  hamiltonian%mat(ipos),ipos (-2.627431342716591E-006,0.000000000000000E+000)
+          19
+  hamiltonian%mat(ipos),ipos (-5.749975796788931E-003,0.000000000000000E+000)
+          34
+  hamiltonian%mat(ipos),ipos (-1.002474041911228E-005,0.000000000000000E+000)
+          49
+  hamiltonian%mat(ipos),ipos (-2.139003574848175E-002,0.000000000000000E+000)
+          64
+  hamiltonian%mat(ipos),ipos (1.430820162795499E-006,0.000000000000000E+000)
+          79
+  hamiltonian%mat(ipos),ipos (3.082985142555117E-005,0.000000000000000E+000)
+          94
+  hamiltonian%mat(ipos),ipos (1.116074940910039E-005,0.000000000000000E+000)
+         109
+  hamiltonian%mat(ipos),ipos (-6.855043466202915E-008,0.000000000000000E+000)
+         124
+  hamiltonian%mat(ipos),ipos (2.216441430391569E-006,0.000000000000000E+000)
+         139
+  hamiltonian%mat(ipos),ipos (9.998702012126159E-006,0.000000000000000E+000)
+         154
+  hamiltonian%mat(ipos),ipos (-5.433523794636130E-002,0.000000000000000E+000)
+         169
+  hamiltonian%mat(ipos),ipos (1.202535095501389E-005,0.000000000000000E+000)
+         184
+  hamiltonian%mat(ipos),ipos (-1.708039082586765E-002,0.000000000000000E+000)
+         199
+  hamiltonian%mat(ipos),ipos (-2.223365243025910E-006,0.000000000000000E+000)
+         214
+           3
+           3
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (1.981478476409393E-006,0.000000000000000E+000)
+           5
+  hamiltonian%mat(ipos),ipos (4.870295562398042E-006,0.000000000000000E+000)
+          20
+  hamiltonian%mat(ipos),ipos (-3.543795935456728E-005,0.000000000000000E+000)
+          35
+  hamiltonian%mat(ipos),ipos (2.290429081767797E-002,0.000000000000000E+000)
+          50
+  hamiltonian%mat(ipos),ipos (-3.285763938265518E-006,0.000000000000000E+000)
+          65
+  hamiltonian%mat(ipos),ipos (-4.629122986443690E-005,0.000000000000000E+000)
+          80
+  hamiltonian%mat(ipos),ipos (1.125229141507589E-005,0.000000000000000E+000)
+          95
+  hamiltonian%mat(ipos),ipos (1.013522341963835E-005,0.000000000000000E+000)
+         110
+  hamiltonian%mat(ipos),ipos (-3.834027610719204E-002,0.000000000000000E+000)
+         125
+  hamiltonian%mat(ipos),ipos (-1.008216406717111E-005,0.000000000000000E+000)
+         140
+  hamiltonian%mat(ipos),ipos (4.119691539017367E-007,0.000000000000000E+000)
+         155
+  hamiltonian%mat(ipos),ipos (-2.340405808354262E-005,0.000000000000000E+000)
+         170
+  hamiltonian%mat(ipos),ipos (1.086750207468867E-002,0.000000000000000E+000)
+         185
+  hamiltonian%mat(ipos),ipos (-3.407492812357305E-007,0.000000000000000E+000)
+         200
+  hamiltonian%mat(ipos),ipos (-2.887118171202019E-006,0.000000000000000E+000)
+         215
+           3
+           3
+           3           5
+           3           5
+ imatrix           3
+ imatrix           3
+ imatrix           4
+ imatrix           4
+  hamiltonian%mat(ipos),ipos (1.243335474282503E-002,0.000000000000000E+000)
+           6
+  hamiltonian%mat(ipos),ipos (-7.819713573553599E-006,0.000000000000000E+000)
+          21
+  hamiltonian%mat(ipos),ipos (6.209394257439271E-006,0.000000000000000E+000)
+          36
+  hamiltonian%mat(ipos),ipos (-9.473619684285950E-007,0.000000000000000E+000)
+          51
+  hamiltonian%mat(ipos),ipos (-4.601152477334836E-005,0.000000000000000E+000)
+          66
+  hamiltonian%mat(ipos),ipos (-1.743473376336624E-006,0.000000000000000E+000)
+          81
+  hamiltonian%mat(ipos),ipos (6.615198117287946E-005,0.000000000000000E+000)
+          96
+  hamiltonian%mat(ipos),ipos (-3.671572357416153E-002,0.000000000000000E+000)
+         111
+  hamiltonian%mat(ipos),ipos (3.001266236424271E-006,0.000000000000000E+000)
+         126
+  hamiltonian%mat(ipos),ipos (4.308880725875497E-002,0.000000000000000E+000)
+         141
+  hamiltonian%mat(ipos),ipos (6.890585245855618E-005,0.000000000000000E+000)
+         156
+  hamiltonian%mat(ipos),ipos (3.897774377037422E-006,0.000000000000000E+000)
+         171
+  hamiltonian%mat(ipos),ipos (-2.058316169950558E-006,0.000000000000000E+000)
+         186
+  hamiltonian%mat(ipos),ipos (-2.526909156586044E-006,0.000000000000000E+000)
+         201
+  hamiltonian%mat(ipos),ipos (8.205379302239635E-006,0.000000000000000E+000)
+         216
