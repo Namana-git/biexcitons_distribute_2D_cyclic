@@ -226,9 +226,9 @@ subroutine distrubute_rows_2D_cyclo(H1,grow_size,c1,c2_start,x,chunk_size)
                
                      lcindx = INDXG2L(j,pzheevx_vars%mb, 0, 0,grid%nprow) 
                      ipos = lrindx + (lcindx-1)*hamiltonian%lld
-                     hamiltonian%mat(ipos) = grow(j-c2_start+1)
+                     hamiltonian%mat(ipos) = real(grow(j-c2_start+1))
                      if(grid%mypcol == 1 .and. grid%myprow ==0)then
-                        print*," hamiltonian%mat(ipos),ipos", hamiltonian%mat(ipos),ipos
+                       ! print*," hamiltonian%mat(ipos),ipos", hamiltonian%mat(ipos),ipos
                      end if
                     
                      
