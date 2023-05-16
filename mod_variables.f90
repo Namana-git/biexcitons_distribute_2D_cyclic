@@ -8,14 +8,14 @@ module global_variables
     end type blacs_info
 
     type(blacs_info) :: grid
-
-    type complex_arrays
-        double complex, allocatable, dimension(:) :: mat
+   type real_arrays
+        double precision, allocatable, dimension(:) :: mat
         integer , dimension(9) :: desca
         integer :: size_, lld, locq
-    end type complex_arrays
+    end type real_arrays
 
-    type(complex_arrays) :: hamiltonian,evec
+
+    type(real_arrays) :: hamiltonian,evec
 
 
     type scalapack_variables
